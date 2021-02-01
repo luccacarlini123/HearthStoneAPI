@@ -9,7 +9,7 @@ e a ferramenta Postman para fazermos nossas requisições as APIs. A porta do se
 em uso no seu computador ou se preciso altere a porta, pois as aplicações não irão funcionar ao mesmo tempo.</p>
 
 <h4>1° Faça o download zip do projeto aqui no GitHub, com os arquivos em mãos extraia-os
-em algum diretório. Com a IDE aberta importe o nosso projeto Maven que pode ser tanto o HearthStone_SpringReste quanto o HearthStone_JAX-RS(Jersey)
+em algum diretório. Com a IDE aberta importe o nosso projeto Maven que pode ser tanto o HearthStone_SpringRest quanto o HearthStone_JAX-RS(Jersey)
 ambos estão rodando na mesma porta.</h4>
 
 <h4>2° Rode algum dos projetos, certifque-se que esteja rodando como uma aplicação Spring Boot.</h4>
